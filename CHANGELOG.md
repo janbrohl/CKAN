@@ -15,6 +15,7 @@ All notable changes to this project will be documented in this file.
 - [GUI] Added "filter by description" search box. (#1632 by: politas; reviewed: pjf)
 - [CLI] `compare` command now checks positive and negative rather than -1/+1 (#1649 by: dbent; reviewed: Daz)
 - [GUI] In windows launch KSP_x64.exe by default rather than KSP.exe. (#1711 by plague006; reviewed: )
+- [Cmdline] `ckan.exe ksp list` now prints its output as a table and includes the version of the installation and its default status. (#1656 by: dbent)
 
 ### Internal
 
